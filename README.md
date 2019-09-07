@@ -1,4 +1,5 @@
-# Cura_Firmware_Retract_Fix
+# Cura_Firmware_Retract_Mixing_Extruder_Fix
+
 this postprocessing script fixes a problem, so that firmware rectract can be used with Cura
 
 Cura has a hidden setting to use firmware retract.
